@@ -1,9 +1,13 @@
-## Posting date (DayMonthYear; HHMM)
+## Comments. Posting date (DayMonthYear; HHMM)
+
+## Sources:
+
+### article
+
+### code
+
+### extras
 
 
-## LINK
-
-
-## Comments
 
 
