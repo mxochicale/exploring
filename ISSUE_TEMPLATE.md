@@ -1,4 +1,4 @@
-## Comments. Posting date (DayMonthYear; HHMM)
+## Title (PostDate: DayMonthYear; HHMM)
 
 ## Sources:
 

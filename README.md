@@ -1,12 +1,11 @@
-Wondering Scientifically
+Exploring Scientifically
 ---
 
 In my day to day as a explorer of the Internet, I bump into a new concept(s), 
 author(s), graphical result(s) or theory(ies) and what I have been doing to this
-day is only tweeting these random references [@_mxochicale](https://twitter.com/_mxochicale). 
-This time, I want to put a bit of organisation to the information that I bump into
-everyday using the issues of repository as follows.
-
+day is only tweeting these random references at [@_mxochicale](https://twitter.com/_mxochicale). 
+However, this time I want to put a bit of organisation to all I bump into
+and those random thoughts that come up in this set of neural networks that juggles a lot.
 
 # Contents 
 
@@ -19,7 +18,6 @@ everyday using the issues of repository as follows.
 	* ## LINK
 	* ## Comments
 * 2 Add a label to the issue
-
 
 
 # TODO
